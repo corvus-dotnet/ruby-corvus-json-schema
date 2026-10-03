@@ -73,7 +73,7 @@ $stdin.each_line do |line|
         version: 1,
         implementation: {
           language: "ruby",
-          name: "corvus_json_schema",
+          name: "corvus-json-schema",
           version: CorvusJsonSchema::VERSION,
           homepage: "https://github.com/corvus-dotnet/Corvus.JsonSchema",
           documentation: "https://rubygems.org/gems/corvus_json_schema",
